@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1603470077 source:d:\umg2020_x\io\final\rutacritica\src\grafo.cpp
+	"Grafo.h"
+
+1603465717 d:\umg2020_x\io\final\rutacritica\include\grafo.h
+	<iostream>
+	<queue>
+	<list>
+	<stack>
+
+1603470840 source:d:\umg2020_x\io\final\rutacritica\main.cpp
+	<iostream>
+	"Grafo.h"
+	<windows.h>
+
